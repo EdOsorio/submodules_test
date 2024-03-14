@@ -1,0 +1,6 @@
+[submodule "lib/submodules_library_test"]
+	path = lib/submodules_library_test
+	url = https://github.com/EdOsorio/submodules_library_test.git
+[submodule "lib/network-submodule"]
+	path = lib/network-submodule
+	url = https://github.com/EdOsorio/network-submodule.git
