@@ -10,6 +10,7 @@ export default function Home() {
   return (
     <>
       <div className={styles.container}>
+        <div></div>
         <div>
           <h1>{`Main Counter: ${mainCounter}`}</h1>
           <button
